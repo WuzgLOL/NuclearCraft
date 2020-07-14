@@ -3450,3 +3450,6 @@ death.attack.fluid_burn=%1$s was effectively pan-fried
 death.attack.hypothermia=%1$s died as a result of extreme hypothermia
 death.attack.fission_burn=%1$s was fried by a fission reactor
 death.attack.fatal_rads=%1$s died due to fatal radiation poisoning
+
+tom.nuclearcraft.guide_book.name=Guide to Radioisotopes
+tom.nuclearcraft.guide_book.desc=Welcome to the official guide for NuclearCraft: Overhauled
